@@ -1,0 +1,17 @@
+C:\Users\Josep\source\repos\Probleme\Probleme\bin\Debug\net6.0\Probleme.exe
+C:\Users\Josep\source\repos\Probleme\Probleme\bin\Debug\net6.0\Probleme.deps.json
+C:\Users\Josep\source\repos\Probleme\Probleme\bin\Debug\net6.0\Probleme.runtimeconfig.json
+C:\Users\Josep\source\repos\Probleme\Probleme\bin\Debug\net6.0\Probleme.dll
+C:\Users\Josep\source\repos\Probleme\Probleme\bin\Debug\net6.0\Probleme.pdb
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.csproj.AssemblyReference.cache
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.AssemblyInfoInputs.cache
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.AssemblyInfo.cs
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.dll
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\refint\Probleme.dll
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.pdb
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.genruntimeconfig.cache
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\ref\Probleme.dll
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Josep\source\repos\Probleme\Probleme\obj\Debug\net6.0\Probleme.csproj.ResolveComReference.cache
